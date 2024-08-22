@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ArtSpace(modifier: Modifier = Modifier) {
-    var numArt by remember { mutableStateOf(1) }
+    var numArt by remember { mutableStateOf(4) }
     var like by remember { mutableStateOf(false) }
 
     val gudArt = when (like){
