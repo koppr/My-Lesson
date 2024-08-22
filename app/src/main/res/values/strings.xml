@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Art Space</string>
+    <string name="my_art_1">My Art 1</string>
+    <string name="my_art_1_name">My Art Name</string>
+    <string name="my_art_1_author">My Art Author</string>
+    <string name="not_like">Not like</string>
+    <string name="like">Like</string>
+
+    <string name="my_art_2">My Art 2</string>
+    <string name="my_art_2_name">Цветок с прекраснсными лепестками</string>
+    <string name="my_art_2_author">Даниил Жозефф 2022</string>
+
+    <string name="my_art_3">My Art 3</string>
+    <string name="my_art_3_name">Рулетка - популярная игра у игроманов</string>
+    <string name="my_art_3_author">Создатель не известен</string>
+
+    <string name="my_art_4">My Art 4</string>
+    <string name="my_art_4_name">Рандомный дракон с сайта</string>
+    <string name="my_art_4_author"></string>
+
+    <string name="Previous">Previous</string>
+    <string name="Next">Next</string>
+</resources>
